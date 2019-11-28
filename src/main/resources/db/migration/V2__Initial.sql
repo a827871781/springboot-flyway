@@ -1,0 +1,1 @@
+insert into test (name,test2) values ("123","21321")
